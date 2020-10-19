@@ -6,4 +6,4 @@ local.properties
 .externalNativeBuild
 build
 *.pt
-HelloWorldApp/sdk/*
+TextDetectorApp/sdk/*
