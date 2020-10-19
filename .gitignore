@@ -1,0 +1,9 @@
+.DS_Store
+local.properties
+**/*.iml
+.gradle
+.idea/
+.externalNativeBuild
+build
+*.pt
+HelloWorldApp/sdk/*
